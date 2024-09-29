@@ -1,7 +1,6 @@
 
 
-
-
+/* tablet & mobile */
 @media (max-width: 992px) {
     .userIcon {
         display: none !important;
@@ -29,7 +28,7 @@
 
 @media (min-width: 992px) {
     .navbar {
-        background: linear-gradient(90deg, #ffff 100px, #17043F 320px);
+        background: linear-gradient(90deg, #ffff 100px, #17043F 300px);
     }
     .nav-item {
         margin: 0 2em 0 2em !important;
