@@ -1,0 +1,55 @@
+.container-ticket {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #18043c;
+}
+
+.section-ticket {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    background-color: #26085e;
+    padding: 2rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.section-ticket h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.section-ticket h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.section-ticket h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.saiba-mais-btn {
+    padding: 0.75rem 1.5rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+}
+
+.saiba-mais-btn:hover {
+    background-color: #45a049;
+}
+
+.section-ticket img {
+    width: 300px;
+    height: auto;
+    border-radius: 0.5rem;
+}
