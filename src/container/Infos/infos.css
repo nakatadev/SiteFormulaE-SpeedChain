@@ -1,0 +1,47 @@
+.container-infos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 30rem;
+  background-color: #18043c;
+}
+.container-infos h1 {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 1rem;
+  text-align: center;
+  text-decoration:solid;
+}
+.container-infos h2 {
+  color: rgb(22, 236, 76);
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.section-infos {
+  width: 80%;
+}
+.section-infos h1 {
+  font-size: 2rem;
+}
+
+.span-infos {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  text-align: center;
+}
+.span-infos h1 {
+  font-size: 2rem;
+  width: 50%;
+}
+.span-infos img {
+  border-radius: 1rem;
+}/*# sourceMappingURL=infos.css.map */

@@ -1,0 +1,13 @@
+.container-footer {
+  display: flex;
+  background-color: #18043c;
+  height: 2.2rem;
+  width: 100%;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}/*# sourceMappingURL=footer.css.map */
+.container-footer h1{
+  font-size: 30px;
+  font-weight: bold;
+}

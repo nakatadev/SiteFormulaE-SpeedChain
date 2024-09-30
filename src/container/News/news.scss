@@ -1,0 +1,34 @@
+.container-news{
+    display: flex;
+    justify-content: center;
+    background-color: #18043c;
+    width: 100%;
+    height: 30rem;
+    color: white;
+}
+
+.span-news{
+    margin-top: 3rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+    img{
+        width: 35%;
+    }
+
+    h2{
+        font-size: 2rem;
+        width: 30%;
+        line-height: 3rem;
+    }
+}
+
+.section-news{
+    margin-top: 5rem;
+    width: 80%;
+
+    h1{
+        font-size: 2rem;
+    }
+}

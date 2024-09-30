@@ -1,0 +1,12 @@
+.container-patron{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+
+    img{
+        width: 15%;
+        aspect-ratio: 3/2;
+        object-fit: contain;
+        mix-blend-mode: color-burn;
+    }
+}

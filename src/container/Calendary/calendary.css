@@ -1,0 +1,30 @@
+.container-calendary {
+  height: 30rem;
+  display: flex;
+}
+
+.brazil {
+  width: 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  background-image: url(../../assets/images/2-bandeira-do-brasil.webp);
+}
+
+.data {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.data h1 {
+  font-size: 4rem;
+  color: #18043c;
+}
+.data h2 {
+  font-size: 4rem;
+  color: #18043c;
+  font-style: italic;
+  font-weight: 700;
+}/*# sourceMappingURL=calendary.css.map */
