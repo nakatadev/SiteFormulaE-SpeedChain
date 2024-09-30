@@ -1,0 +1,24 @@
+.container-main{
+    background-image: url(../../assets/images/mainbg.png);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 40rem;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.section-main{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    h1{
+        color: white;
+        font-style: italic;
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+}

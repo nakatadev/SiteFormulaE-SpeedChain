@@ -1,0 +1,41 @@
+.container-infos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 30rem;
+    background-color: #18043c;
+    h1{
+        color: green;
+        font-weight: 700;
+        font-size: 2rem;
+        margin-top: 1rem;
+        text-align: center;
+    }
+}
+
+.section-infos{
+    width: 80%;
+    h1{
+        font-size: 2rem;
+    }
+}
+
+.span-infos{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    
+    text-align: center;
+    h1{
+        font-size: 2rem;
+        width: 50%;
+    }
+
+    img{
+        border-radius: 1rem;
+    }
+}
